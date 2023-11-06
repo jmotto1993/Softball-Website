@@ -1,0 +1,113 @@
+a {
+	color: white;
+	text-decoration: none;
+}
+
+p{
+	font-size: 20px;
+	color: gold;
+	
+}
+
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+	border-style: none;
+	border-width: medium;
+}
+
+
+body{
+	align-items: center;
+	text-align: center;
+}
+
+td {
+	font-family: Sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	border-style: solid;
+	padding: 15px;
+
+}
+
+.navbar a{
+	display: inline-block;
+	font-size: 30px;
+	margin: 15px;
+}
+
+.navbar a:hover {
+	color: gold
+}
+
+.navbar a:active {
+	color:goldenrod;
+}
+
+.homebody {
+	background-color: black;
+}
+
+.schedule{
+	text-align: center;
+}
+
+.row1{
+	background-color: gold;
+}
+
+.other-rows{
+	background-color: white;
+}
+
+.other-rows-gameday{
+		background-color: white;
+		color:goldenrod;
+}
+.map {
+	background-color: black;
+}
+
+.record {
+	color: white;
+	font-size: 25px;
+}
+
+.schedule-head {
+	font-size: 30px;
+	color: White;
+}
+
+.title {
+	font-size: 30px;
+	color: gold;
+	font-style: italic;
+}
+
+.message{
+	font-size: 25px;
+	color: red;
+}
+
+.other-rows:hover {
+	background-color: goldenrod;
+}
+
+.other-rows1{
+	background-color:grey;
+}
+
+.warning{
+	font-size: 25px;
+	color: red;
+}
+
+.mustwin{
+	font-size: 30px;
+}
+
+.view:hover {
+	background-color: goldenrod;
+}
